@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bfb867e-8cde-473b-9399-acc850957fd8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="3bfb867e-8cde-473b-9399-acc850957fd8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,6 +194,7 @@
       <workItem from="1602292378487" duration="248000" />
       <workItem from="1602292898758" duration="3406000" />
       <workItem from="1602309944113" duration="913000" />
+      <workItem from="1602498843862" duration="699000" />
     </task>
     <servers />
   </component>
@@ -231,5 +230,9 @@
       <screen x="0" y="23" width="1920" height="1006" />
     </state>
     <state x="721" y="179" key="SettingsEditor/0.23.1920.1006@0.23.1920.1006" timestamp="1602299307817" />
+    <state x="1172" y="159" width="580" height="735" key="find.popup" timestamp="1602502969670">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="1172" y="159" width="580" height="735" key="find.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1602502969670" />
   </component>
 </project>
